@@ -1,10 +1,16 @@
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/110691992/184910805-062d6eea-900a-4b4c-aeec-f8429dad1ba3.jpeg" width="200px" />
+</div>
+
+<div align="center">
+  
 ## Olá! Meu nome é Letícia Santos
 
 :seedling: Estou aprendendo HTML, CSS, JAVASCRIPT e PYTHON
-
 :books: Interessada em Tecnologias Front-End e Back-End
-
 :zap: Graduada em Farmácia
+</div>
 
 <div align="center">
   <a href="https://github.com/leticiadssantos">
