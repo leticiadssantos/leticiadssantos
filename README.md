@@ -7,7 +7,7 @@
 </span>
 
   
-## Olá! Meu nome é Letícia Santos
+## Olá! Meu nome é Letícia Santos ☺
 :seedling: Estou aprendendo HTML, CSS, JAVASCRIPT e PYTHON
 :books: Interessada em Tecnologias Front-End e Back-End
 :zap: Graduada em Farmácia
