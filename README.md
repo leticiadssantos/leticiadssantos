@@ -19,12 +19,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
-<div aling="style="display: center"><br>
+<br>
+<div align="center">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 </div>
 
 ##
@@ -38,4 +38,9 @@
   
 </div>
 
+<div align="center">
+
+![que a força esteja com voce](https://user-images.githubusercontent.com/39930158/186437037-97018b6b-8c72-46d4-aaa7-d8843a839514.gif)
+
 ![Snake animation](https://github.com/leticiadssantos/leticiadssantos/blob/output/github-contribution-grid-snake.svg)
+</div>
