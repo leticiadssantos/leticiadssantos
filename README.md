@@ -1,13 +1,12 @@
 
-<div align="center">
-  
-## Olá! Meu nome é Letícia Santos ☺
-<ol>
-:seedling: Estou aprendendo tecnologias HTML, CSS, JAVASCRIPT e PYTHON
-:books: Interessada em Tecnologias Front-End e Back-End
-:zap: Graduada em Farmácia
-</ol>
-</div>
+## Olá! Meu nome é Letícia Santos
+
+- 🖋 Inicio desta jornada na programação: Agosto/22.
+- ⚡ Curiosidade: Sou formada no curso de bacharelado em farmácia;
+- :seedling: Estou aprendendo tecnologias HTML, CSS, JAVASCRIPT, JAVA e PYTHON
+- :books: Interessada em Tecnologias Front-End e Back-End
+
+
 
 <div align="center">
   <a href="https://github.com/leticiadssantos">
@@ -36,7 +35,6 @@
 
 <div align="center">
 
-![que a força esteja com voce](https://user-images.githubusercontent.com/39930158/186437037-97018b6b-8c72-46d4-aaa7-d8843a839514.gif)
 
 ![Snake animation](https://github.com/leticiadssantos/leticiadssantos/blob/output/github-contribution-grid-snake.svg)
 </div>
