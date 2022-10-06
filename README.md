@@ -45,5 +45,6 @@
 
 
 <div align="center">
+
 ![Snake animation](https://github.com/leticiadssantos/leticiadssantos/blob/output/github-contribution-grid-snake.svg)
 </div>
