@@ -2,12 +2,15 @@
 ## Olá! Meu nome é Letícia Santos
 
 ## Status Atual 🌎: 
+<hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+<div style="display: inline_block"><br>
 
 - 🔭 ```Em trasição de carreira, buscando uma oportunidade de trabalho na área de TI```;
 - 🌱 ```Aprendendo Técnicas de desenvolvimento web ```; 
 - 👯 ``` ------ ```;
 - 📚 ```Interessada em UI-UX desing, Front-End e Back-End ```;
 - ⚡ ```Cuiriosidades: Formação completa de graduação em farmácia, encantada por quimica e biologia ```;
+
 
 ## Meu Status no GitHub 📖:  
 
@@ -35,11 +38,13 @@
 
 
 ##
+
 <div align="center">
   <a href="https://github.com/leticiadssantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiadssantos&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
+
 ##
 
 
