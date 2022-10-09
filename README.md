@@ -1,7 +1,6 @@
 
 ## Olá! Meu nome é Letícia Santos
 
-## Status Atual 🌎: 
 <hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 <div style="display: inline_block"><br>
 
@@ -25,7 +24,7 @@
 </div>  
 
 
-## Linguagens e Ferramentas 🔨:
+## Tecnologias:
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
