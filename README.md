@@ -1,14 +1,22 @@
 
-## Olá! Meu nome é Letícia Santos
+## Olá, Seja bem-vindo(a) ao meu perfil!
 
 <hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 <div style="display: inline_block"><br>
 
-- 🔭 ```Em trasição de carreira, buscando uma oportunidade de trabalho na área de TI```;
-- 🌱 ```Aprendendo Técnicas de desenvolvimento web ```; 
-- 👯 ``` ------ ```;
-- 📚 ```Interessada em UI-UX desing, Front-End e Back-End ```;
-- ⚡ ```Cuiriosidades: Formação completa de graduação em farmácia, encantada por quimica e biologia ```;
+Me chamo Letícia Santos, tenho 26 anos e atualmente, estou no processo de trasição de carreira, buscando uma oportunidade de trabalho na área de TI.
+Para alcançar esse objetivo, estou aprendendo Técnicas de desenvolvimento web focando em tecnologias como html, css, e javascript para desenvolvimento front-end. Já para back-end estudo linguagens java e python. Possou interresse em aprender no futuro próximo UI/UX design e bancos de dados. Cuiriosidades sobre mim,  Formação completa de graduação em farmácia, encantada por quimica e biologia.
+
+
+##
+
+<div align="center">
+  <a href="https://github.com/leticiadssantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiadssantos&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
+
+##
 
 
 ## Meu Status no GitHub 📖:  
@@ -36,16 +44,6 @@
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Git" height="50" /> 
 </div>  
 
-
-##
-
-<div align="center">
-  <a href="https://github.com/leticiadssantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiadssantos&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=nightowl"/>
-</div>
-
-##
 
 
 <div align="center">
