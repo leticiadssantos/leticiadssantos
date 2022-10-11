@@ -1,11 +1,12 @@
 
 ## Olá, Seja bem-vindo(a) ao meu perfil! 👋
 
-<hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+<hr><img align="right" width="150" src="https://media0.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=ecf05e476z4so73zq1yj1ijttrinet2rpio3vkpufzecb9yi&rid=giphy.gif&ct=g"/>
 <div style="display: inline_block"><br>
 
+
 Me chamo Letícia Santos, tenho 26 anos e atualmente, estou no processo de trasição de carreira, buscando uma oportunidade de trabalho na área de TI.
-Para alcançar esse objetivo, estou aprendendo Técnicas de desenvolvimento web focando em tecnologias como html, css, e javascript para desenvolvimento front-end. Já para back-end estudo linguagens java e python. Possou interresse em aprender no futuro próximo UI/UX design e bancos de dados. Cuiriosidades sobre mim,  Formação completa de graduação em farmácia, encantada por quimica e biologia.
+Para alcançar esse objetivo, estou aprendendo Técnicas de desenvolvimento web focando em tecnologias como html, css, e javascript para desenvolvimento front-end. Já para back-end estudo linguagens java e python. Cuiriosidades sobre mim, possuo formação completa de graduação em farmácia, encantada por quimica e biologia.
 
 
 ##
