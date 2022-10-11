@@ -1,7 +1,7 @@
 
 ## Olá, Seja bem-vindo(a) ao meu perfil! 👋
 
-<hr><img align="right" width="150" src="https://media0.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=ecf05e476z4so73zq1yj1ijttrinet2rpio3vkpufzecb9yi&rid=giphy.gif&ct=g"/>
+<hr><img align="right" width="300" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47jerlt0d2be2yx0sps0xqzk4ljguh87c641y29iq6&rid=giphy.gif&ct=g"/>
 <div style="display: inline_block"><br>
 
 
