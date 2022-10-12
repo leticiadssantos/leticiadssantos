@@ -5,7 +5,7 @@
 <div style="display: inline_block"><br>
 
 
-Me chamo Letícia Santos, tenho 26 anos e atualmente, estou no processo de trasição de carreira, buscando uma oportunidade de trabalho na área de TI.
+Me chamo Letícia Santos, tenho 26 anos e atualmente, estou no processo de transição de carreira, buscando uma oportunidade de trabalho na área de TI.
 Para alcançar esse objetivo, estou aprendendo Técnicas de desenvolvimento web focando em tecnologias como html, css, e javascript para desenvolvimento front-end. Já para back-end estudo linguagens java e python. Cuiriosidades sobre mim, possuo formação completa de graduação em farmácia, encantada por quimica e biologia.
 
 
