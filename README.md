@@ -6,7 +6,7 @@
 
 
 Me chamo Letícia Santos, tenho 26 anos e atualmente, estou no processo de transição de carreira, buscando uma oportunidade de trabalho na área de TI.
-Para alcançar esse objetivo, estou aprendendo Técnicas de desenvolvimento web focando em tecnologias como html, css, e javascript para desenvolvimento front-end. Já para back-end estudo linguagens java e python. Cuiriosidades sobre mim, possuo formação completa de graduação em farmácia, encantada por quimica e biologia.
+Para alcançar esse objetivo, estou aprendendo Técnicas de desenvolvimento web focando em tecnologias como html, css, e javascript para desenvolvimento front-end. Já para back-end estudo linguagens e java. Cuiriosidades sobre mim, possuo formação completa de graduação em farmácia, encantada por quimica e biologia.
 
 <div><a href = "mailto:leticia.dasilva@hotmail.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
    <a href = "https://www.linkedin.com/in/let%C3%ADcia-santos-106093249/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -31,8 +31,7 @@ Para alcançar esse objetivo, estou aprendendo Técnicas de desenvolvimento web 
 
 ## Tecnologias:
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<div align="center">   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Git" height="50" /> 
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Git" height="50" /> 
