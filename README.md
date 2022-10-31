@@ -23,12 +23,6 @@ Para alcançar esse objetivo, estou aprendendo Técnicas de desenvolvimento web 
 ##
 
 
-## Meu Status no GitHub 📖:  
-
-<div align="center">
-<img src = "https://activity-graph.herokuapp.com/graph?username=leticiadssantos&theme=xcode&hide_border=true&area=false&bg_color=00"/>
-</div> 
-
 ## Tecnologias:
 
 <div align="center">   
